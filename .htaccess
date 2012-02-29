@@ -1,0 +1,6 @@
+RewriteEngine on
+
+ModPagespeed off
+
+RewriteCond $1 !^(index\.php|output\.php|ckeditor|img|css|js|lib|temp|big_xml\.php|_db|Documents|rockmongo|humans.txt|intro.php|picasso|tmp|shopping\.php|upgrade\.php|install\.php|robots\.txt)
+RewriteRule ^(.*)$ /index.php/$1 [L]

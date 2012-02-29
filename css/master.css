@@ -1,0 +1,9 @@
+.page {float:left;display:block;width:100%;margin-top:50px;}
+
+.form-actions-clean {background:none;padding-left:0;}
+
+.brandx:hover {color: #ffffff;text-decoration: none;}
+.brandx {float: left; display: block; padding: 8px 20px 12px; margin-left:-10px; font-size: 20px; font-weight: bold; line-height: 1; color: #000!important;}
+
+.brandx {padding-right: 0; padding-left: 0; text-shadow: 0 1px 0 rgba(255,255,255,.1), 0 0 30px rgba(255,255,255,.125)!important; -webkit-transition: all .2s linear!important; -moz-transition: all .2s linear!important; transition: all .2s linear!important;}
+.brandx:hover {text-decoration: none;}
